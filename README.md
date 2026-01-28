@@ -59,3 +59,5 @@ git push
 ```
 
 Then go to GitHub and open a **Pull Request** from your branch to `main`.
+
+Submission for CI participation quiz.
